@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f368384a-e66f-46cb-aa05-8a5865081856" name="Default Changelist" comment="new homework 8/1 Customer">
+      <change beforePath="$PROJECT_DIR$/../../05_ArraysAndCollections/Car_number/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_ArraysAndCollections/Car_number/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/Client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPBMetro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SPBMetro/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1d9HQqjOkAHupQkFVfsyQy5r9Tq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559109403663" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SPBMetro" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ConsoleCustomerList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f368384a-e66f-46cb-aa05-8a5865081856" name="Default Changelist" comment="" />
+      <created>1559106634874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559106634874</updated>
+    </task>
+    <task id="LOCAL-00001" summary="new homework 8/1 Customer">
+      <created>1591835560848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591835560848</updated>
+    </task>
+    <task id="LOCAL-00002" summary="redone homework 8/1 Customer">
+      <created>1592165438819</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592165438819</updated>
+    </task>
+    <task id="LOCAL-00003" summary="redone homework 8/1 Customer">
+      <created>1592513472580</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592513472580</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new homework 8/1 Customer" />
+    <MESSAGE value="redone homework 8/1 Customer" />
+    <option name="LAST_COMMIT_MESSAGE" value="redone homework 8/1 Customer" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="114" y="12" key="#Notifications" timestamp="1591992750975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="114" y="12" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1591992750975" />
+    <state x="486" y="0" key="CommitChangelistDialog2" timestamp="1592513470203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="486" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592513470203" />
+    <state x="804" y="122" key="FileChooserDialogImpl" timestamp="1592514143324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="804" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592514143324" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1591836575011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591836575011" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1591836575011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591836575011" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1591836575010">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591836575010" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1591836575011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591836575011" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1592513477842">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592513477842" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
