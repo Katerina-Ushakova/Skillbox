@@ -20,11 +20,20 @@ public class Main
                 System.out.println("Type te command (add/list/remove/count/help)");
                 String command = scanner.nextLine();
                 String[] tokens = command.split("\\s+", 2);
+
                 if (tokens[0].equals("add")) {
+                    if (tokens.length < 2) {
+                        throw new IllegalArgumentException("Wrong format! Correct format: \n" +
+                                "add Василий Петров vasily.petrov@gmail.com +79215637722");
+                    }
                     executor.addCustomer(tokens[1]);
                 } else if (tokens[0].equals("list")) {
                     executor.listCustomers();
                 } else if (tokens[0].equals("remove")) {
+                    if (tokens.length < 2) {
+                        throw new IllegalArgumentException("Wrong format! Correct format: \n" +
+                                "remove Василий Петров");
+                    }
                     executor.removeCustomer(tokens[1]);
                 } else if (tokens[0].equals("count")) {
                     System.out.println("There are " + executor.getCount() + " customers");

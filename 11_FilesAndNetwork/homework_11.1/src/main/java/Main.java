@@ -15,12 +15,12 @@ public class Main {
                 if (folderName.isDirectory()) {
                     break;
                 }
-                System.out.println("Неверный путь !Введите корректный ");
+                System.out.println("Неверный путь! Введите корректный ");
             }
-            String folderSize = (FileUtils.calculateFolderSize(String.valueOf((FileUtils.getFoldersSize(folderName)))));
-            System.out.println("\nРазмер папки " + folderName + " = " + folderSize);
-        }
 
+            long folderSize = (FileUtils.calculateFolderSize(String.valueOf(folderName)));
+            System.out.println("\nРазмер папки " + folderName + " = " + FileUtils.conversion(folderSize));
+        }
         catch (Exception e) {
             e.printStackTrace();
         }

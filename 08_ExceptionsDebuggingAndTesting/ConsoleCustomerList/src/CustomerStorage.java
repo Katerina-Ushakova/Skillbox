@@ -41,7 +41,7 @@ public class CustomerStorage
     public void removeCustomer(String name)
     {
         String [] arrayName = name.split("\\s+");
-        if (arrayName.length != 2) {
+        if (arrayName.length != 2 || name.length() == 0) {
             try {
                 throw new CustomerException("Wrong format! Correct format: \n" +
                         "remove Василий Петров");

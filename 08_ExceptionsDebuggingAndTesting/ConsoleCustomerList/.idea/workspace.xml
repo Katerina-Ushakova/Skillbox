@@ -2,10 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f368384a-e66f-46cb-aa05-8a5865081856" name="Default Changelist" comment="new homework 8/1 Customer">
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/Gamify it/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/Gamify it/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/Gamify it/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/Generations/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/Generations/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/Generations/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/Let there be light/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/Let there be light/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/Let there be light/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/Life goes by/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/Life goes by/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/Life goes by/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/Looking good!/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/Looking good!/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/Looking good!/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/task/src/life/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Game of Life/task/test/GameOfLifeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Problems/Alphabetical order/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Problems/Alphabetical order/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Problems/Alphabetical order/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Game of Life/Problems/Alphabetical order/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../05_ArraysAndCollections/Car_number/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_ArraysAndCollections/Car_number/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/Client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/Company/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/Company/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/Employee/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/Employee/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Airport/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/Airport/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/LambdaExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/LambdaExpressions/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomerStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomerStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SPBMetro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SPBMetro/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPBMetro/src/test/java/RouteCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SPBMetro/src/test/java/RouteCalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,38 +117,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="redone homework 8/1 Customer" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="114" y="12" key="#Notifications" timestamp="1591992750975">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1612957513393">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="114" y="12" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1591992750975" />
-    <state x="486" y="0" key="CommitChangelistDialog2" timestamp="1592513470203">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1612957513393" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1606139733394">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="486" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592513470203" />
-    <state x="804" y="122" key="FileChooserDialogImpl" timestamp="1592514143324">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606139733394" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1606139733394">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="804" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592514143324" />
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1591836575011">
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606139733394" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1606139733393">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591836575011" />
-    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1591836575011">
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606139733393" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1606139733394">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591836575011" />
-    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1591836575010">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591836575010" />
-    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1591836575011">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591836575011" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1592513477842">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592513477842" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606139733394" />
   </component>
   <component name="masterDetails">
     <states>

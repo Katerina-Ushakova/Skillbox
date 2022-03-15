@@ -110,7 +110,6 @@ public class RouteCalculatorTest extends TestCase {
     protected void tearDown() throws Exception {
         super.tearDown();
 
-        // Удаление ссылок на массивы и объекты
 
         Line[] line = null;
         Station[][] station = null;

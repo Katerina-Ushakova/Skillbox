@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baabd658-2e59-4748-887f-1bdd396c992b" name="Default Changelist" comment="">
+    <list default="true" id="baabd658-2e59-4748-887f-1bdd396c992b" name="Default Changelist" comment="redone homework. 7/3 Stream">
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/Gamify it/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/Gamify it/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/Gamify it/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/Generations/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/Generations/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/Generations/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/Let there be light/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/Let there be light/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/Let there be light/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/Life goes by/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/Life goes by/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/Life goes by/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/Looking good!/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/Looking good!/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/Looking good!/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/task/src/life/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/task/test/GameOfLifeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Problems/Alphabetical order/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Problems/Alphabetical order/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Problems/Alphabetical order/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Problems/Alphabetical order/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../05_ArraysAndCollections/Car_number/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_ArraysAndCollections/Car_number/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/Client/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/Company/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/Company/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/Employee/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/Employee/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Airport/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Airport/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../08_ExceptionsDebuggingAndTesting/ConsoleCustomerList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_ExceptionsDebuggingAndTesting/ConsoleCustomerList/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../08_ExceptionsDebuggingAndTesting/SPBMetro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_ExceptionsDebuggingAndTesting/SPBMetro/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_ExceptionsDebuggingAndTesting/SPBMetro/src/test/java/RouteCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_ExceptionsDebuggingAndTesting/SPBMetro/src/test/java/RouteCalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +60,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558674161968" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Airport" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -101,46 +126,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="redone homework. 7/3 Stream" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="550" y="22" key="#Inspections" timestamp="1591054076036">
+    <state x="549" y="0" key="CommitChangelistDialog2" timestamp="1605181850328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="550" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1591054076036" />
-    <state x="356" y="0" key="CommitChangelistDialog2" timestamp="1591191477900">
+    <state x="549" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605181850328" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605182085880">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="356" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591191477900" />
-    <state x="804" y="119" key="FileChooserDialogImpl" timestamp="1591187944444">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605182085880" />
+    <state width="1323" height="170" key="GridCell.Tab.0.bottom" timestamp="1605182147367">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="804" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591187944444" />
-    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1591192134030">
+    <state width="1323" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605182147367" />
+    <state width="1323" height="170" key="GridCell.Tab.0.center" timestamp="1605182147367">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591192134030" />
-    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1591192134030">
+    <state width="1323" height="170" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605182147367" />
+    <state width="1323" height="170" key="GridCell.Tab.0.left" timestamp="1605182147366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591192134030" />
-    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1591192134029">
+    <state width="1323" height="170" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605182147366" />
+    <state width="1323" height="170" key="GridCell.Tab.0.right" timestamp="1605182147367">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591192134029" />
-    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1591192134030">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591192134030" />
-    <state x="550" y="97" key="Vcs.Push.Dialog.v2" timestamp="1591191534912">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="550" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591191534912" />
-    <state x="131" y="0" key="new project wizard" timestamp="1591187945968">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1591187945968" />
-    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1591055681670">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1591055681670" />
+    <state width="1323" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605182147367" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LambdaExpressions$Main.ic" NAME="Main Coverage Results" MODIFIED="1591052823113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
